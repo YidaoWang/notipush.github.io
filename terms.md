@@ -8,11 +8,11 @@ Yidao（以下「当方」）は、スマートフォン用アプリケーショ
 当方が配信するアプリでは、広告配信のためにGoogle AdMob、利用状況解析のためにGoogle Firebase Analyticsを使用する場合がございます。
 広告配信のために広告IDを取得していますが、個人を特定するためなどには使用しておりません。
 取得する情報、利用目的、第三者への提供等の詳細につきましては、以下のプライバシーポリシーのリンクよりご確認ください。
-[AdMob（Google Inc.）](https://policies.google.com/technologies/ads?hl=ja)
-[Firebase Analytics（Google Inc.）](https://policies.google.com/privacy?hl=ja%EF%BB%BF)
+- [AdMob（Google Inc.）](https://policies.google.com/technologies/ads?hl=ja)
+- [Firebase Analytics（Google Inc.）](https://policies.google.com/privacy?hl=ja%EF%BB%BF)
 ### 2.2 お問い合わせやご意見を頂く際の個人情報の収集
-#### • 2.2.1 送信元のメールアドレス、 端末を識別する情報 (ユーザーサポートID)
-#### • 2.2.2 お問い合わせ内容
+• 2.2.1 送信元のメールアドレス、 端末を識別する情報 (ユーザーサポートID)  
+• 2.2.2 お問い合わせ内容
 ## 3. 利用目的
 当方は、2.2 において収集した情報を、お問い合わせに対する返信のために利用いたします。また、2.2 において収集した情報を、本アプリの品質向上のために利用いたします。
 ## 4. 個人情報の管理
@@ -29,5 +29,5 @@ Yidao（以下「当方」）は、スマートフォン用アプリケーショ
 ## 8. 著作権・知的財産権等
 著作権その他一切の権利は、当方又は権利を有する第三者に帰属します。
 ## 9. 連絡先
-お問い合わせ先
+お問い合わせ先  
 Email: yidao1107@icloud.com
