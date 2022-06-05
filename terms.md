@@ -9,7 +9,7 @@ Yidao（以下「当方」）は、スマートフォン用アプリケーショ
 広告配信のために広告IDを取得していますが、個人を特定するためなどには使用しておりません。
 取得する情報、利用目的、第三者への提供等の詳細につきましては、以下のプライバシーポリシーのリンクよりご確認ください。
 - [AdMob（Google Inc.）](https://policies.google.com/technologies/ads?hl=ja)
-- [Firebase Analytics（Google Inc.）](https://policies.google.com/privacy?hl=ja%EF%BB%BF)
+- [Firebase Analytics（Google Inc.）](https://policies.google.com/privacy?hl=ja%EF%BB%BF)  
 ## 3. 個人情報の管理
 当方は、お客さまの個人情報を正確かつ最新の状態に保ち、個人情報への不正アクセス・紛失・破損・改ざん・漏洩などを防止するため、安全対策を実施し個人情報の厳重な管理を行ないます。
 ## 4. 個人情報の第三者への開示・提供の禁止
